@@ -81,7 +81,7 @@
              <groupId>org.springframework.boot</groupId>
               <artifactId>spring-boot-maven-plugin</artifactId>
              <configuration>
-             <mainClass>com.sistemacaja.com.ComApplication</mainClass>
+             <mainClass>sistemacaja.com.ComApplication</mainClass>
     </configuration>
 </plugin>
         </plugins>
