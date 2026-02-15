@@ -84,7 +84,6 @@
              <mainClass>com.sistemacaja.com.ComApplication</mainClass>
     </configuration>
 </plugin>
-
         </plugins>
     </build>
 
